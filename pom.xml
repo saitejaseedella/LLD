@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lld</groupId>
-	<artifactId>tic_tac_toe</artifactId>
+	<artifactId>LLD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tic_tac_toe</name>
 	<description>All the deisgn patterns wil be here </description>
